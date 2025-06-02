@@ -1,0 +1,7 @@
+transformers
+torch
+psycopg2-binary
+typer
+python-dotenv
+sqlalchemy
+pandas

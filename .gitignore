@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Model files
+local_model/
+
+# PyTorch and HuggingFace caches
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# OS files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Exported/output files
+*.csv
+*.log
+
